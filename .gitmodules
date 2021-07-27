@@ -1,0 +1,3 @@
+[submodule "hdl/zx-ula"]
+	path = hdl/zx-ula
+	url = https://github.com/freecores/zx_ula.git
